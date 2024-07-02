@@ -1,3 +1,5 @@
+## Base de datos sobre el consumo mundial
+
 ### 📚 1. Introducción
 
 En el contexto global de los países en desarrollo, la Base de Datos del Consumo Mundial se erige como una plataforma esencial que centraliza información detallada sobre los patrones de consumo en hogares. Esta iniciativa ha sido concebida con el propósito de servir como un recurso fundamental para diversos usuarios, abarcando desde investigadores en busca de datos precisos para sus estudios analíticos hasta empresas que desean profundizar su comprensión de los mercados en los cuales operan o planean expandirse.

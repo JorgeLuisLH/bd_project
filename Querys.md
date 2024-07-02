@@ -158,7 +158,7 @@ HAVING organizacion_fuente like 'Banco Mundial%';
 ### Subconsultas:
 #### 3.1. Subconsultas select
 ```sql
--- Seleccionar títulos de libros junto con el total de préstamos de cada libro utilizando una subconsulta en el SELECT
+-- cuanta el numero de indicadores para Mexico
 SELECT nombre_pais,
        (SELECT COUNT(*) 
         FROM indicadores_desarrollo ID
